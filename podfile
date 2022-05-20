@@ -1,0 +1,8 @@
+
+platform :ios, '13.2'
+use_frameworks!
+
+target 'GitProj' do
+  pod 'AFNetworking', '~> 4.0'
+  pod 'SDWebImage', '~> 3.0'
+end
